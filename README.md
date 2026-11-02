@@ -54,6 +54,17 @@ These **13,985 ready-to-use developer tool APIs** help you build scrapers and au
 
 Pick an API below, open it, try a small run, then export the results.
 
+<details>
+<summary><b>Who uses developer tool APIs? (click to open)</b></summary>
+
+- **Developers:** skip the boring parts and call a browser, parser or screenshot tool.
+- **AI agent builders:** connect MCP servers and web tools to your agents.
+- **QA engineers:** check status codes, broken links and page speed at scale.
+- **Data engineers:** convert files, merge datasets and move data between tools.
+- **Automation fans:** plug APIs into n8n, Zapier, Make and your own scripts.
+
+</details>
+
 ---
 
 ## ⭐ Star This Repository
