@@ -12,8 +12,7 @@
 
 <p align="center">
  <a href="#top-10-most-popular">Top 10</a> ·
- <a href="#table-of-contents">Categories</a> ·
- <a href="#more-lists">More lists</a>
+ <a href="#table-of-contents">Categories</a>
 </p>
 
 Building a scraper or a bot? Skip the boring parts. These APIs give you ready-made pieces like a browser, a screenshot tool or a proxy checker that you call from your code. **13,985 ready-to-use APIs**, sorted by real users so the best ones come first.
@@ -57,9 +56,11 @@ Pick an API below, open it, try a small run, then export the results.
 
 ---
 
-## Star this repository
+## ⭐ Star This Repository
 
-If this list helped you, a star helps other people find it too.
+If this API list helped you, please give it a star! ⭐
+
+Your support helps other people discover this resource and keeps the list updated and growing.
 
 ---
 
@@ -1074,14 +1075,6 @@ If this list helped you, a star helps other people find it too.
 
 
 [View all 70 in this section →](lists/ebay-walmart.md)
-
----
-
-## More lists
-
-More API lists: [github.com/bigibyte](https://github.com/bigibyte)
-
-This repo: [github.com/bigibyte/developer-tools-apis](https://github.com/bigibyte/developer-tools-apis)
 
 ---
 
