@@ -1,4 +1,4 @@
-# Developer Tools APIs: Scrapers, Browsers, Proxies and Automation Utilities
+# Developer Tools APIs: Ready-Made Building Blocks for Scrapers and Bots
 
 <p align="center">
  <img src="https://images.bigibyte.com/projects/bigibyte-github-developer-tools-apis-cover.png" alt="Developer Tools APIs: developer tools APIs" width="100%">
@@ -13,11 +13,12 @@
 <p align="center">
  <a href="#top-10-most-popular">Top 10</a> ·
  <a href="#table-of-contents">Categories</a> ·
- <a href="#how-to-use">How to use</a> ·
- <a href="#faq">FAQ</a>
+ <a href="#more-lists">More lists</a>
 </p>
 
-**A big, tidy list of developer tool APIs** for scrapers, headless browsers, proxies, parsers and automation helpers. **13,985 APIs**, sorted by real users so the useful ones show up first.
+Building a scraper or a bot? Skip the boring parts. These APIs give you ready-made pieces like a browser, a screenshot tool or a proxy checker that you call from your code. **13,985 ready-to-use APIs**, sorted by real users so the best ones come first.
+
+These developer tool APIs help you build web scrapers and automations faster. Use them for headless browsers (Playwright, Puppeteer, Cheerio), HTML parsing, screenshots, proxy scraping and checking, HTTP status checks, MCP servers for AI agents, file conversion and dataset processing. Each API runs in the cloud and returns structured JSON you can plug into your pipeline.
 
 ---
 
@@ -1073,45 +1074,6 @@ If this list helped you, a star helps other people find it too.
 
 
 [View all 70 in this section →](lists/ebay-walmart.md)
-
----
-
-## How to use
-
-1. Open any API link in this repo.
-2. Read the input fields (usually a URL, HTML blob, proxy list or small config JSON).
-3. Run a small test so you see the output shape.
-4. Export the dataset as JSON, CSV or Excel, or call the same API from your code.
-
-
-```bash
-# Example: send JSON to any HTTP API you choose
-curl -X POST "https://httpbin.org/post" \
- -H "Content-Type: application/json" \
- -d '{"query":"example","limit":10}'
-```
-
----
-
-## FAQ
-
-**What developer tool API should I start with?** 
-Start with the [Top 10](#top-10-most-popular). Match the tool to your job: browser, parser, proxy or agent helper.
-
-**Do these work from my own code?** 
-Yes. Open an API page, try a small run, then call the same endpoint from curl, Python or Node.
-
-**Are there tools for AI agents?** 
-Yes. See AI / Agents / MCP when it appears in the table of contents.
-
-**How is this list organized?** 
-By theme. Full tables live in the [`lists/`](lists/) folder. The README shows a preview of each category.
-
-**How often is it updated?** 
-Last build: 2026-11-02. Rebuild when you need a newer snapshot.
-
-**Why do some ratings say n/a?** 
-That API has no public rating yet.
 
 ---
 
